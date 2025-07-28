@@ -1,44 +1,80 @@
 # 📄 CV de Luis Agüero
 
-🚀 **[Ver CV en línea (GitHub Pages)](https://luchoaguero44.github.io/NombreDelRepositorio/)**  
-> Reemplaza `NombreDelRepositorio` por el nombre real del repositorio donde subas el proyecto (por ejemplo: `CV-Luis`).
-
-Este repositorio contiene mi currículum vitae en formato web, diseñado con **HTML5**, **CSS3** y **Bootstrap 5**, pensado para ser visualizado de forma clara, profesional y responsiva a través de **GitHub Pages**.
+🔗 **[Ver CV en línea (GitHub Pages)](https://luchoaguero44.github.io/NombreDelRepositorio/)**  
 
 ---
 
-## 🧠 Sobre mí
+## 👤 Información personal
 
-Estudiante de **Ingeniería Mecatrónica** en la Universidad Nacional de Asunción, con experiencia como administrador de proyectos y tutor de matemáticas y física. Apasionado por la programación, la resolución de problemas y la educación técnica.
-
----
-
-## 🛠️ Tecnologías usadas
-
-- HTML5  
-- CSS3 (con estilo personalizado)  
-- Bootstrap 5 (CDN)  
-- GitHub Pages (para despliegue)
+- **Nombre completo:** Luis Agüero  
+- **Profesión:** Estudiante de Ingeniería Mecatrónica | Administrador de Proyectos  
+- **Correo:** lucio4aguero@gmail.com
+- **Teléfono:** +595 986 319 742  
+- **Ubicación:** Asunción, Paraguay  
 
 ---
 
-## 📌 Secciones del CV
+## 🧠 Resumen Profesional
 
-- **Resumen profesional**
-- **Experiencia laboral**
-- **Educación**
-- **Habilidades**
-- **Idiomas**
-- **Proyectos destacados**
-- **Intereses**
+Soy un estudiante de **Ingeniería Mecatrónica** en la Universidad Nacional de Asunción con experiencia en la gestión de proyectos. Apasionado por la resolución de problemas complejos, la programación en **Python y C++**, y la enseñanza de **matemáticas y física**. Me motiva la innovación tecnológica, el desarrollo de soluciones automatizadas y la educación técnica.
 
 ---
 
-## 🌐 Visualización
+## 🧰 Habilidades
 
-Puedes clonar el repositorio y abrir el archivo `index.html` en tu navegador, o simplemente acceder a la versión en línea a través de GitHub Pages.
+- 🖥️ Lenguajes de programación: **Python**, **C++**
+- 📋 Gestión de proyectos y liderazgo de equipos
+- 🔍 Resolución de problemas técnicos y matemáticos
+- 🎓 Enseñanza personalizada y comunicación efectiva
 
-```bash
-git clone https://github.com/LuchoAguero44/NombreDelRepositorio.git
-cd NombreDelRepositorio
-start index.html
+---
+
+## 💼 Experiencia Laboral
+
+- **Administrador de Proyectos** – *Maderas San Juan* (2019 - Presente)  
+  Responsable de la planificación, ejecución y seguimiento de proyectos, asegurando el cumplimiento de objetivos y plazos.
+
+- **Tutor Particular** (2021 - Presente)  
+  Enseñanza personalizada de matemáticas y física para estudiantes de nivel secundario y universitario, logrando mejoras significativas en el rendimiento académico de los alumnos.
+
+---
+
+## 🎓 Educación
+
+- **Ingeniería Mecatrónica** – *Universidad Nacional de Asunción* (2020 - Actualidad)  
+  Cursando con enfoque en automatización, robótica y programación.
+
+---
+
+## 🌐 Idiomas
+
+- Español (Nativo)  
+- Guaraní (Nativo)  
+- Inglés (Avanzado)  
+- Portugués (Intermedio)
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🔍 [Reconocimiento de chapas de vehículos en tiempo real](https://luchoguero44.github.io/DeteccionDeChapas/index.html)  
+  Implementación de **YOLOv5** y **ONNX** para identificar automáticamente matrículas de automóviles en video en tiempo real.
+
+- 🤖 [Reconocimiento de lenguaje de señas](https://luchoaguero44.github.io/Lengua-de-Senhas/index.html)  
+  Sistema de reconocimiento de gestos con **MediaPipe** para facilitar la comunicación mediante lengua de señas.
+
+- 📘 Tutorías personalizadas  
+  Desarrollo de un método interactivo de enseñanza que combina teoría y práctica para alumnos de nivel medio y universitario en matemáticas y física.
+
+---
+
+## 🎯 Intereses
+
+- Robótica  
+- Desarrollo de software  
+- Diseño de sistemas automatizados  
+- Aseguramiento de la calidad (QA)  
+- Educación técnica y científica
+
+
+
