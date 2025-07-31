@@ -1,6 +1,6 @@
 # 📄 CV de Luis Agüero
 
-🔗 **[Ver CV en línea (GitHub Pages)](https://luchoaguero44.github.io/NombreDelRepositorio/)**  
+🔗 **[Ver CV en línea (GitHub Pages)](https://luchoaguero44.github.io/MyCv/)**  
 
 ---
 
